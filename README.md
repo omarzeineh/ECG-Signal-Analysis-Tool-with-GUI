@@ -46,7 +46,7 @@ This adjustment improved both the accuracy and clarity of the results.
 ## File Structure
 
 - `Prob_GUI.mlapp` → The MATLAB App Designer GUI file  
-- `CEN330_Project_Report_Group_5.pdf` → Full project report with design, testing, and results  
+- `Project_Report.pdf` → Full project report with design, testing, and results  
 - Supporting MATLAB scripts (FFT, filtering, stochastic modeling, visualization)
 
 ---
