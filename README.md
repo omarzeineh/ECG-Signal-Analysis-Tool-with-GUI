@@ -62,13 +62,6 @@ This adjustment improved both the accuracy and clarity of the results.
 
 ---
 
-## References
-
-This work builds on concepts of ECG preprocessing, feature extraction, and stochastic modeling from:  
-- Rahman et al., *A statistical designing approach to MATLAB based functions for ECG signal preprocessing*, Iran J. Comp. Sci., 2019.  
-- Kuusela, *Stochastic heart-rate model can reveal pathologic cardiac dynamics*, Phys. Rev. E, 2004.  
-
----
 
 ## Acknowledgment
 
