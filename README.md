@@ -60,12 +60,4 @@ This adjustment improved both the accuracy and clarity of the results.
 5. Press **Process** to filter and analyze the signal.  
 6. (Optional) Generate synthetic heart rate data using the **Synthesize HR** button.
 
----
 
-
-## Acknowledgment
-
-This project was completed as part of **CEN330 – Signals and Systems** coursework under the supervision of Eng. Gasm El Bary.  
-Special thanks to my teammates for collaboration and contributions to the design and implementation.
-
----
